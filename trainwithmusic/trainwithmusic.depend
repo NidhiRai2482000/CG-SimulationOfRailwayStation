@@ -21,3 +21,11 @@
 	<GL/glu.h>
 	<stdlib.h>
 
+1650203140 source:c:\users\lenovo\desktop\3. projects - engineering\computer graphics\trainwithmusic\main.cpp
+	<windows.h>
+	<stdio.h>
+	<GL/glut.h>
+	<GL/gl.h>
+	<stdlib.h>
+	"mmsystem.h"
+

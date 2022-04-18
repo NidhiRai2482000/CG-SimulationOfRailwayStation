@@ -3924,7 +3924,7 @@ void keyFun(unsigned char key,int x,int y)
 
 int main(int argc,char** argv)
 {
-    PlaySound(TEXT("C:\\Users\\Lenovo\\Desktop\\CG Project\\music.wav"),NULL,SND_ASYNC);
+    PlaySound(TEXT("C:\\Users\\Lenovo\\Desktop\\3. Projects - Engineering\\Computer Graphics\\music.wav"),NULL,SND_ASYNC);
     printf("\n---------------------------");
     printf("ARRIVAL AND DEPARTURE OF TRAIN");
     printf("-----------------------------\n");
